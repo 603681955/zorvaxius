@@ -30,7 +30,7 @@ style:
   logo: /images/logo.png
 
   # Favicon (You can use local image or image external link)
-  favicon: /images/logo.svg
+  favicon: /images/logo.png
 
   # Avatar (You can use local image or image external link)
   avatar: /images/avatar.png
