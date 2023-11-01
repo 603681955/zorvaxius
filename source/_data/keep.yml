@@ -62,7 +62,8 @@ style:
 
     # First screen description
     # You can use the "||" to begin a newline, maximum is two lines.
-    description: "给时光以生命,而不是给生命以时光。"
+    # description: "给时光以生命,而不是给生命以时光。"
+    description: "年轻的时候，我们很容易陷入两个极端：一个是沉溺于自我，一切以自我为中心，我的感受我的孤独我的快乐；一个是没有自我，完全把自己抛掷出去，抛掷给虚无，丢给娱乐，丢给随波逐流的乌合之众。"
 
     # If you want to customize the first screen font color, you can fill in here (e.g. "#0066CC")
     # Otherwise use the theme default font color
